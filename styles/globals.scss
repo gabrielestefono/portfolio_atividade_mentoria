@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+$cor-primaria: #0DB760;
+$cor-secundaria: #15295F;
+
+.elementColorPrimary{
+    background-color: $cor-primaria;
+}
+
+.elementColorSecundary{
+    background-color: $cor-secundaria;
+}
+
+.textColorPrimary{
+    color: $cor-primaria;
+}
+
+.textColorSecondary{
+    color: $cor-secundaria;
+}
+
+.borderBotton{
+    border-bottom: 1px solid $cor-primaria;
+}
+
+.textPrimaryHover:hover{
+    color: $cor-primaria;
+    opacity: 0.7;
+    border-bottom: 1px solid $cor-primaria;
+    margin-top: 8px;
+    padding-bottom: 8px;
+}
