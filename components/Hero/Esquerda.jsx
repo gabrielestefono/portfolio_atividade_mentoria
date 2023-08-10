@@ -6,7 +6,7 @@ export default function HeroEsquerda(){
             </div>
             <div className="mt-24">
                 <h1 className="poppins textColorSecondary font-semibold text-xl">Desenvolvedor Full Stack</h1>
-                <p className="poppins textColorSecondary mt-4 text-sm font-medium w-11/12">Full stack developers possess a wide range of skills and can work on both the client-side (front-end) and server-side (back-end) of web applications. This versatility makes them valuable assets in a development team.</p>
+                <p className="poppins textColorSecondary mt-4 text-sm font-medium w-11/12">Desenvolvedores full stack possuem uma ampla gama de habilidades e podem trabalhar tanto no lado do cliente (front-end) quanto no lado do servidor (back-end) de aplicações web. Essa versatilidade os torna ativos valiosos em uma equipe de desenvolvimento.</p>
             </div>
             <div>
                 <button className="mt-6 elementColorPrimary text-sm text-white font-semibold rounded-4 w-40	h-12">Ver meus projetos</button>
