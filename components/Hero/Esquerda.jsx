@@ -1,6 +1,6 @@
 export default function HeroEsquerda(){
     return (
-        <div className="flex justify-center flex-col flex-1">
+        <div className="flex justify-start flex-col flex-1">
             <div className="mt-40">
                 <h2 className="textColorPrimary poppins font-bold text-2xl">Olá, eu sou</h2>
             </div>
